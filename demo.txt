@@ -1,3 +1,5 @@
 this is masster/main
 
 this is line one from developer1 as amaster
+ this is line 2
+
